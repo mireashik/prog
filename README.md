@@ -26,6 +26,7 @@ https://github.com/Embarcadero/Dev-Cpp
 - https://github.com/Kreckeroff/1sem_PP
 - https://github.com/Bigljuse/UniversityHomeWorkCPP
 - https://github.com/cramatsu
+- https://github.com/Kirsegisan/MIREA_DZ (2023 год)
 
 ---
 
